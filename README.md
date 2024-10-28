@@ -1,4 +1,9 @@
+<h1 align="center">
+  <a><img src="https://github.com/nivlevyy/Csharp-interfaces-delegates/blob/main/image/DALL%C2%B7E-2024-10-28-14.46.png" width="300"></a>
+<br>
 # Hierarchical Menu Management System
+<br>
+</h1>
 
 A comprehensive console-based hierarchical menu management system developed in C#. This project showcases the use of object-oriented programming concepts such as interfaces, polymorphism, and delegation. Users can navigate a structured, multi-level menu to execute various commands and return to previous menus.
 
